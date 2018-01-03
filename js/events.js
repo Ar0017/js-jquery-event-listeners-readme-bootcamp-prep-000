@@ -5,7 +5,6 @@ function getIt() {
     alert ('Hey!')
   })
 }
-});
 
 $(document).ready(function(){
 
